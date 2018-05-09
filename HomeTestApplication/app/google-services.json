@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "677129314785",
+    "firebase_url": "https://firstandroid-d3381.firebaseio.com",
+    "project_id": "firstandroid-d3381",
+    "storage_bucket": "firstandroid-d3381.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:677129314785:android:13f2241522294a0f",
+        "android_client_info": {
+          "package_name": "com.firstexample.rutu.hometestapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "677129314785-npcr3tcq0k8526krvao29nuumh0v94f7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrejvbqRyUQxP6Oeo5GLEkrQ7sxOYZ0Bs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
